@@ -1,6 +1,6 @@
 # Portfolio - Milan Kharel
 
-[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build) [![Netlify Status](https://api.netlify.com/api/v1/badges/02288ef4-4eac-4d76-b02e-014810fb9aa2/deploy-status)](https://app.netlify.com/sites/milankharel/deploys)
 
 ## 🔥 Features
 
